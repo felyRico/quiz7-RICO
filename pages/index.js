@@ -30,9 +30,6 @@ export default function HomePage() {
           <Menu.Item key="contact" icon={<MailOutlined />}>
             <Link href="/">Contact</Link>
           </Menu.Item>
-          <Menu.Item key="tabs" icon={<AppstoreOutlined />}>
-            <Link href="/tabs-collapse">Tabs</Link>
-          </Menu.Item>
           <Menu.Item key="quiz" icon={<QuestionCircleOutlined />}>
             <Link href="/quiz-advanced">Quiz Advanced</Link>
           </Menu.Item>
